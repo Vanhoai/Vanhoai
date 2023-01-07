@@ -7,7 +7,7 @@
 
 - ✍ I'm a student of: [FPT Polytechnic College](https://hcmute.edu.vn) (FPoly).
 
-- 🌱 I’m currently learning **Backend Developer.**
+- 🌱 I’m currently learning **Fullstack Developer.**
 
 <br />
 
