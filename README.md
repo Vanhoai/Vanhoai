@@ -30,14 +30,9 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
   <img src="https://img.icons8.com/color/48/000000/nestjs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/null/flutter.png"/>
 </p>
 
 ## Activities:
