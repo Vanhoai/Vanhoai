@@ -14,17 +14,14 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm](https://www.linkedin.com/in/tran-hoai-38a028235/" target="_blank">
+  <a href="https://www.linkedin.com/in/tran-hoai-38a028235/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100019977532801" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM](https://github.com/Vanhoai" alt="Github">
+  <a href="https://github.com/Vanhoai" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCkEBy-jn18qe8ZFk8i8i1HQ" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
 </p>
 
