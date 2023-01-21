@@ -22,8 +22,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/Vanhoai" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>![image](https://user-images.githubusercontent.com/88159390/213610836-102f995d-fa7e-406c-a457-d344accd286c.png)
-
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
 </p>
 
