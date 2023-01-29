@@ -4,7 +4,7 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-- 🌱 I’m a **Mobile Developer.**
+- 🥲️ I’m a **Mobile Developer.**
 
 - 🤠️ Belonging to the very active generation Z.
 
@@ -27,14 +27,14 @@
   </a>
 </p>
 
-## Skills:
+## 🤙️ Main Skills:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/nestjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/null/flutter.png"/>
 </p>
 
-## Activities:
+## 👟️ Activities:
 
 <table style="width:100%;">
   <tr>
