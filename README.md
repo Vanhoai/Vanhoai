@@ -1,12 +1,13 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Hoai</h1>
+<h1 align="center">Hi 👋, I'm Hoài</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-- ✍ I'm a student of: [FPT Polytechnic College](https://caodang.fpt.edu.vn).
+- 🌱 I’m a **Mobile Developer.**
 
-- 🌱 I’m currently learning **Mobile Developer.**
+- 🤠️ Belonging to the very active generation Z.
+
 <br />
 
 <p align="center">
