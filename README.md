@@ -4,7 +4,7 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-- ✍ I'm a student of: [FPT Polytechnic College](https://hcmute.edu.vn) (FPoly).
+- ✍ I'm a student of: [FPT Polytechnic College](https://caodang.fpt.edu.vn).
 
 - 🌱 I’m currently learning **Mobile Developer.**
 <br />
