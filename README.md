@@ -10,9 +10,9 @@
 
 <br />
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://pbs.twimg.com/media/Eu7kZRRWgAMJjj8?format=png&name=small" />
-</p>
+</p> -->
 
 ## 📫 How to reach me:
 <p align="center">
