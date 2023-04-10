@@ -34,7 +34,7 @@
   <img src="https://img.icons8.com/color/48/null/flutter.png"/>
 </p>
 
-## 👟️ Activities:
+<!-- ## 👟️ Activities:
 
 <table style="width:100%;">
   <tr>
@@ -49,3 +49,4 @@
     </td>
   </tr>
 </table>
+-->
