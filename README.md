@@ -22,7 +22,7 @@
 
 
 
-- :zap: I’m working as a FullStack Blockchain
+- :zap: I’m working as a Fullstack Developer
 
 - :seedling: Exploring Technical Content Writing.
 
