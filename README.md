@@ -24,8 +24,6 @@
 
 - :zap: I’m working as a Fullstack Developer.
 
-- :seedling: Visit to my website: https://portfolio-aqn7v8ch4-vanhoai.vercel.app/
-
 - :seedling: Exploring Technical Content Writing.
 
 
