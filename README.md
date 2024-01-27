@@ -22,7 +22,7 @@
 
 
 
-- :zap: I’m working as a Fullstack Developer.
+- :zap: I’m working as a Mobile Developer.
 
 - :seedling: Exploring Technical Content Writing.
 
