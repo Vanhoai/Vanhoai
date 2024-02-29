@@ -27,20 +27,32 @@
 - :seedling: Exploring Technical Content Writing.
 
 
+## Skill Set
+These are some of the major technologies that I use or have worked on in the past:
 
-<div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-</div>
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,typescript,dart,kotlin,swift,rust&perline=8&theme=light" alt="My Skills" />
+
+**Libraries and Frameworks**
+
+<img src="https://skillicons.dev/icons?i=redux,react,flutter,express,nestjs,materialui&perline=8&theme=light" alt="My Skills" />
+
+**Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=firebase,googlecloud,docker,aws,gradle,rabbitmq&perline=8&theme=light" alt="My Skills" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8&theme=light" alt="My Skills" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,linux,git,github,gitlab,bitbucket&perline=8&theme=light" alt="My Skills" />
+
+**Extend**
+
+<img src="https://skillicons.dev/icons?i=figma,kubernetes,tensorflow,notion&perline=8&theme=light" alt="My Skills" />
 
 ---
 
