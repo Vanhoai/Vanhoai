@@ -32,11 +32,11 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,java,typescript,dart,kotlin,swift,rust&perline=8&theme=light" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=cpp,typescript,dart,kotlin,swift,rust&perline=8&theme=light" alt="My Skills" />
 
 **Libraries and Frameworks**
 
-<img src="https://skillicons.dev/icons?i=redux,react,flutter,express,nestjs,materialui&perline=8&theme=light" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=redux,react,flutter,express,nestjs&perline=8&theme=light" alt="My Skills" />
 
 **Infrastructure**
 
@@ -44,11 +44,11 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8&theme=light" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=8&theme=light" alt="My Skills" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,linux,git,github,gitlab,bitbucket&perline=8&theme=light" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,linux,git,github,gitlab&perline=8&theme=light" alt="My Skills" />
 
 **Extend**
 
