@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/homebrew/opt/opencv/include/opencv4",
+                "/opt/homebrew/opt/eigen/include/eigen3",
+                "/opt/homebrew/opt/pytorch/include/torch",
+                "/opt/homebrew/opt/libomp/include",
+                "/opt/homebrew/opt/opencv/include",
+                "/opt/homebrew/opt/eigen/include",
+                "/opt/homebrew/opt/pytorch/include",
+                "/opt/homebrew/include"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
