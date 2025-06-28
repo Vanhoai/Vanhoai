@@ -1,0 +1,27 @@
+{
+    "cpp-signature": {
+        "prefix": "csignature",
+        "body": [
+            "//",
+            "// File        : $TM_FILENAME",
+            "// Author      : Hinsun",
+            "// Date        : $CURRENT_YEAR-$CURRENT_MONTH-${CURRENT_DATE}",
+            "// Copyright   : (c) 2025 Tran Van Hoai",
+            "// License     : MIT",
+            "//",
+        ],
+        "description": "Signature template for C++ files"
+    },
+    "python-signature": {
+        "prefix": "pysignature",
+        "body": [
+            "#",
+            "# File        : $TM_FILENAME",
+            "# Author      : Hinsun",
+            "# Date        : $CURRENT_YEAR-$CURRENT_MONTH-${CURRENT_DATE}",
+            "# Copyright   : (c) 2025 Tran Van Hoai",
+            "# License     : MIT",
+            "#",
+        ]
+    }
+}
