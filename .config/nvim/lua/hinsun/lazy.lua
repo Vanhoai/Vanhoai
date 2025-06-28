@@ -15,7 +15,7 @@ vim.opt.rtp:prepend(lazypath)
 require("lazy").setup(
 	{
 		{ import = "hinsun.plugins" },
-		-- { import = "sethy.plugins.lsp" },
+		{ import = "hinsun.plugins.lsp" }
 	},
 	{
 		checker = {
