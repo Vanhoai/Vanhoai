@@ -29,8 +29,8 @@ return {
                     "gitignore",
                     "vimdoc",
                     "c",
-                    "cmake",
                     "cpp",
+                    "cmake",
                     "rust",
                 },
                 incremental_selection = {
