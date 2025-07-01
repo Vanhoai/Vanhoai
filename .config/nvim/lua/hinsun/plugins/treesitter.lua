@@ -18,8 +18,6 @@ return {
                 -- ensure these languages parsers are installed
                 ensure_installed = {
                     "json",
-                    "yaml",
-                    "python",
                     "markdown",
                     "markdown_inline",
                     "bash",

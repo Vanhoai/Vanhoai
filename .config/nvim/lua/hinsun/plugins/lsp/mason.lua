@@ -31,10 +31,6 @@ return {
                 "clangd", -- C/C++ LSP server
                 "cmake",  -- CMake LSP server
 
-                -- Python
-                "pyright", -- Python LSP server
-                "ruff",    -- Fast Python linter/formatter LSP
-
                 -- Rust
                 "rust_analyzer", -- Rust LSP server
             },
@@ -43,23 +39,14 @@ return {
         mason_tool_installer.setup({
             ensure_installed = {
                 -- C/C++ tools
-                "clang-format", -- C/C++ formatter
-                "cpplint",      -- C++ linter
-                "cmakelang",    -- CMake linter
-
-                -- Python tools
-                "black",   -- Python formatter
-                "isort",   -- Python import sorter
-                "flake8",  -- Python linter
-                "mypy",    -- Python type checker
-                "debugpy", -- Python debugger
+                "clangd",
+                "clang-format",
 
                 -- Rust tools
-                "rustfmt", -- Rust formatter (thường đi kèm với rust toolchain)
+                "rustfmt",
 
                 -- General tools
-                "prettier", -- General formatter
-                "stylua",   -- Lua formatter
+                "stylua",
                 "eslint_d",
                 "lua_ls",
                 "emmet_ls",

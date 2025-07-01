@@ -102,6 +102,7 @@ return {
                     align_shortcut = "right",
                     hl_shortcut = "EcovimPrimary",
                 }
+
                 if keybind then
                     keybind_opts = if_nil(keybind_opts, { noremap = true, silent = true, nowait = true })
                     opts.keymap = { "n", sc_, keybind, keybind_opts }
@@ -122,14 +123,13 @@ return {
             end
 
             dashboard.section.buttons.val = {
-                button("f", icons.fileNoBg .. " " .. "Find File", "<cmd>Telescope find_files<CR>", {}),
-                button("w", icons.word .. " " .. "Find Word", "<cmd>Telescope live_grep<CR>", {}),
-                button("h", icons.fileRecent .. " " .. "Recents", "<cmd>Telescope oldfiles<CR>", {}),
-                button("l", icons.timer .. " " .. "Load Last Session", "<cmd>SessionRestore<CR>",
+                button("ff", icons.fileNoBg .. " " .. "Find File", "<cmd>Telescope find_files<CR>", {}),
+                button("fw", icons.word .. " " .. "Find Word", "<cmd>Telescope live_grep<CR>", {}),
+                button("fh", icons.fileRecent .. " " .. "Recents", "<cmd>Telescope oldfiles<CR>", {}),
+                button("fl", icons.timer .. " " .. "Load Last Session", "<cmd>SessionRestore<CR>",
                     {}),
-                button("u", icons.packageDown .. " " .. "Update Plugins", "<cmd>Lazy update<CR>", {}),
-                button("m", icons.package .. " " .. "Manage Plugins", "<cmd>Lazy<CR>", {}),
-                button("s", icons.cog .. " " .. "Settings", "<cmd>e $MYVIMRC<CR>", {}),
+                button("fa", icons.constructor .. " " .. "Lazy", "<cmd>Lazy<CR>", {}),
+                button("fs", icons.cog .. " " .. "Settings", "<cmd>e $MYVIMRC<CR>", {}),
                 button("<ESC>", icons.exit .. " " .. "Exit", "<cmd>exit<CR>", {}),
             }
 

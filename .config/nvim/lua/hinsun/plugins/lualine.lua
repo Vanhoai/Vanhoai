@@ -14,6 +14,7 @@ return {
             color7 = "#828697",
             color8 = "#ae81ff",
         }
+
         local my_lualine_theme = {
             replace = {
                 a = { fg = colors.color0, bg = colors.color1, gui = "bold" },
@@ -44,7 +45,7 @@ return {
             fmt = function(str)
                 -- return ' '
                 -- displays only the first character of the mode
-                return ' ' .. str
+                return '󰣇 ' .. str
             end,
         }
 
@@ -62,7 +63,6 @@ return {
         }
 
         local branch = { 'branch', icon = { '', color = { fg = '#A6D4DE' } }, '|' }
-
 
         lualine.setup({
             icons_enabled = true,
