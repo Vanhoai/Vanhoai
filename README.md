@@ -62,12 +62,6 @@ TypeScript ██████████░░░░░░░░░░░   50%
 - Deep diving into **Hexagonal Architecture** and **Event-Driven Design**
 - Mastering Rust because... well, everyone says I should
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanhoai&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanhoai&layout=compact&theme=radical)
-
 ## 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanhoai.adv@gmail.com)
