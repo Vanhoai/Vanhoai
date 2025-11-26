@@ -71,4 +71,4 @@ TypeScript ██████████░░░░░░░░░░░   50%
 
 ---
 
-⚡ Fun fact: I can debug code faster when I'm hungry. My team knows to keep snacks nearby during sprint weeks 🍿
+⚡ Fun fact: I'm all about new experiences - food, travel, tech, you name it. Life's too short for comfort zones! 🌏
