@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a **Mobile Engineer** passionate about crafting beautiful Android experiences and occasionally teaching machines to see the world. Based in An Giang, Vietnam 🇻🇳
+I'm a **Mobile Engineer** passionate about crafting beautiful Android experiences and occasionally teaching machines to see the world. Born and raised in An Giang, Vietnam 🇻🇳
 
 When I'm not wrestling with Jetpack Compose layouts or debugging neural networks, you'll find me:
 - 🍲 Hunting down the best local food spots
