@@ -22,12 +22,11 @@ When I'm not wrestling with Jetpack Compose layouts or debugging neural networks
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ### 🖥️ Backend Development
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -43,16 +42,15 @@ When I'm not wrestling with Jetpack Compose layouts or debugging neural networks
 
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=architecture&logoColor=white)
 ![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-FF6B6B?style=for-the-badge&logo=ddd&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge&logo=architecture&logoColor=white)
 
 ### **Languages I Speak** - (to computers 🫣)
 
 ```
 Kotlin     ████████████████████░   95%
-Python     ███████████████░░░░░░   75%
-Rust       ████████████░░░░░░░░░   60%
-C++        ███████████░░░░░░░░░░   55%
-TypeScript ██████████░░░░░░░░░░░   50%
+Golang     ████████████████░░░░░   75%
+Python     █████████████░░░░░░░░   60%
+TS         ███████████░░░░░░░░░░   50%
+C++        ████████░░░░░░░░░░░░░   40%
 ```
 
 ### 🛠️ Tools & DevOps
@@ -64,11 +62,10 @@ TypeScript ██████████░░░░░░░░░░░   50%
 
 ## 🎯 Current Focus
 
-- Building robust Android apps with **Clean Architecture** and **MVVM**
-- Designing scalable backend systems using **DDD principles**
-- Exploring the intersection of mobile and AI (putting ML models on phones!)
-- Deep diving into **Hexagonal Architecture** and **Event-Driven Design**
-- Mastering Rust because... well, I love performance! 🦀
+- Enhancing my skills in **Mobile Development** to become a Mobile Engineer 😤
+- Diving deeper into **Deep Learning** and **Computer Vision** to build smarter applications 🤖
+- Exploring the latest trends in **AI on Mobile** and **Edge Computing** 📱
+- Designing scalable and maintainable backend systems using modern practices 🏗 
 
 ## 📫 Let's Connect!
 
